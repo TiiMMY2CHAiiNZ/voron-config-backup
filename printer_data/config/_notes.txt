@@ -1,4 +1,6 @@
-present toolhead position: 175, 0, 200
-print done toolhead position: 175, 335, 275
+=======  DONE  ==================================
+X       (SET 12-22-24)          present toolhead position: 175, 0, 200
+X       (SET 12-22-24)          max height: 275
 
-max height: 275
+=======  PENDING  ===============================
+print done toolhead position: 175, 335, 275
