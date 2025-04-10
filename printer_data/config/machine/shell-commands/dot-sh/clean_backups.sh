@@ -1,1 +1,0 @@
-/home/biqu/printer_data/config/machine/shell-commands/dot-sh/move_files.sh /home/biqu/printer_data/config/ /home/biqu/printer_data/config/machone/_backups-archive/ "/home/biqu/printer_data/config/printer-*.cfg"
